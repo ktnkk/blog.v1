@@ -15502,7 +15502,7 @@ log-update@^5.0.0:
     slice-ansi "^5.0.0"
     wrap-ansi "^8.0.1"
 
-logform@^2.2.0:
+logform@^2.2.0, logform@^2.3.2:
   version "2.3.2"
   resolved "https://registry.yarnpkg.com/logform/-/logform-2.3.2.tgz#68babe6a74ab09a1fd15a9b1e6cbc7713d41cb5b"
   integrity sha512-V6JiPThZzTsbVRspNO6TmHkR99oqYTs8fivMBYQkjZj6rxW92KxtDCPE6IkAk1DNBnYKNkjm4jYBm6JDUcyhOA==
@@ -24685,11 +24685,11 @@ windows-release@^4.0.0:
     execa "^4.0.2"
 
 winston-transport@^4.4.0:
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/winston-transport/-/winston-transport-4.4.1.tgz#42a830e07363719c13c12bd2fb87a226f692dc75"
-  integrity sha512-ciZRlU4CSjHqHe8RQG1iPxKMRVwv6ZJ0RC7DxStKWd0KjpAhPDy5gVYSCpIUq+5CUsP+IyNOTZy1X0tO2QZqjg==
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/winston-transport/-/winston-transport-4.4.2.tgz#554efe3fce229d046df006e0e3c411d240652e51"
+  integrity sha512-9jmhltAr5ygt5usgUTQbEiw/7RYXpyUbEAFRCSicIacpUzPkrnQsQZSPGEI12aLK9Jth4zNcYJx3Cvznwrl8pw==
   dependencies:
-    logform "^2.2.0"
+    logform "^2.3.2"
     readable-stream "^3.4.0"
     triple-beam "^1.2.0"
 
