@@ -53,7 +53,7 @@
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-remark": "~3.2.0",
     "gatsby-transformer-sharp": "^3.14.0",
-    "katex": "^0.15.1",
+    "katex": "^0.15.2",
     "netlify-cli": "^8.13.0",
     "prismjs": "^1.26.0",
     "react": "^17.0.1",
